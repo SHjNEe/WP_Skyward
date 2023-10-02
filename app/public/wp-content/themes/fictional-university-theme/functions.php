@@ -40,7 +40,7 @@ function university_files()
   wp_enqueue_script('bootstrap-js', '//maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js', array('jquery'), '4.5.2', true);
 
   // Enqueue Google Maps API
-  wp_enqueue_script('googleMap', '//maps.googleapis.com/maps/api/js?key=YOUR_API_KEY', NULL, '1.0', true);
+  wp_enqueue_script('googleMap', '//maps.googleapis.com/maps/api/js?key=AIzaSyDekJTa_uCZuN8RDdAtLVW31eNkC3G0a1s', NULL, '1.0', true);
 
   // Enqueue your main JavaScript file
   wp_enqueue_script('main-university-js', get_theme_file_uri('/build/index.js'), array('jquery'), '1.0', true);

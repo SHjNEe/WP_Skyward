@@ -13,3 +13,11 @@
 [30-Sep-2023 16:48:16] ERROR: FPM initialization failed
 [30-Sep-2023 16:48:16] ERROR: Another FPM instance seems to already listen on /Users/trungs_macos/Library/Application Support/Local/run/vDdBA-sM5/php/php-fpm.socket
 [30-Sep-2023 16:48:16] ERROR: FPM initialization failed
+[02-Oct-2023 19:34:01] ERROR: Another FPM instance seems to already listen on /Users/trungs_macos/Library/Application Support/Local/run/vDdBA-sM5/php/php-fpm.socket
+[02-Oct-2023 19:34:01] ERROR: FPM initialization failed
+[02-Oct-2023 19:34:01] ERROR: Another FPM instance seems to already listen on /Users/trungs_macos/Library/Application Support/Local/run/vDdBA-sM5/php/php-fpm.socket
+[02-Oct-2023 19:34:01] ERROR: FPM initialization failed
+[02-Oct-2023 19:34:02] ERROR: Another FPM instance seems to already listen on /Users/trungs_macos/Library/Application Support/Local/run/vDdBA-sM5/php/php-fpm.socket
+[02-Oct-2023 19:34:02] ERROR: FPM initialization failed
+[02-Oct-2023 19:34:03] ERROR: Another FPM instance seems to already listen on /Users/trungs_macos/Library/Application Support/Local/run/vDdBA-sM5/php/php-fpm.socket
+[02-Oct-2023 19:34:03] ERROR: FPM initialization failed
